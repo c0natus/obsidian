@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin",
+  "image-converter",
+  "image-captions"
 ]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21ad060230d8b554",
+        "id": "75dfbc16c2a966f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b028bfb6829e99d2",
+            "id": "9891c29e42531b28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Paper review/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "d8b24a1f9274ddba",
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.base",
+                "file": "Paper review/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction 의 개요"
             }
           },
           {
@@ -172,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,14 +196,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5eddcc81721bec1",
+  "active": "9891c29e42531b28",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-23 20.06.43.excalidraw.md",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Figure2.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Figure10.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Table5.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Table4.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Table3.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Table2.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Table7.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Figure7.png",
+    "Paper review/LLM/(ACL'25, short) Towards Geo-Culturally Grounded LLM Generations.md",
+    "Paper review/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction.md",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Figure6.webp",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Figure6.png",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction/Algorithm1.jpg",
+    "환영합니다!.md",
     "무제.base",
+    "Paper review/LLM/Drawing 2026-05-23 20.53.15.excalidraw.md",
+    "Paper review/Asset/LLM/(EACL'26, main) LLMs as Cultural Commonsense Knowledge Graph Extraction",
+    "Paper review/Asset/LLM",
+    "Paper review/Asset",
+    "(ACL'25, short) Towards Geo-Culturally Grounded LLM Generations.md",
+    "Paper review/LLM",
+    "Paper review",
+    "Excalidraw/Drawing 2026-05-23 20.06.43.excalidraw.md",
     "Excalidraw/Drawing 2026-05-23 20.06.37.excalidraw.md",
     "Excalidraw/Drawing 2026-05-23 20.06.27.excalidraw.md",
     "Excalidraw",
-    "환영합니다!.md",
     "무제.canvas"
   ]
 }
